@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicwcampbell
 - 👀 I’m interested in coding, web development, web apps, OutSystems, engineering, technology, business, Industry 4.0, IOT
-- 🌱 I’m currently growing in OutSystems, HTML, CSS, JS, VSCode, general web development
+- 🌱 I’m currently growing in OutSystems, HTML, CSS, JS, VS Code, React, Node.js, Next.js, general web development
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me - send me a message on GitHub
 
